@@ -204,5 +204,5 @@ tilt_adj = PID_tilt(target_y, actual_y)   → 俯仰舵机角度增量
 
 ---
 
-**仓库：** [kaka12331/-](https://github.com/kaka12331/-)  
+**仓库：** [kaka12331/2023-dian-sai-visual-gimbal](https://github.com/kaka12331/2023-dian-sai-visual-gimbal)  
 **主题：** 2023 电赛 · 视觉伺服 · STM32 · K230 · PID · 双轴云台
