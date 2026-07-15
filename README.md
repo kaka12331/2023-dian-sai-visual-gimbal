@@ -231,4 +231,15 @@ tilt_adj = PID_tilt(target_y, actual_y)   → 俯仰舵机角度增量
 ---
 
 **仓库：** [kaka12331/2023-dian-sai-visual-gimbal](https://github.com/kaka12331/2023-dian-sai-visual-gimbal)  
-**主题：** 2023 电赛 · 视觉伺服 · STM32 · K230 · PID · 双轴云台
+**主题：** 2023 电赛 · 视觉伺服 · STM32 · K230 · PID · 双轴云台  
+
+## 同账号相关工程
+
+| 仓库 | 简介 |
+|------|------|
+| [dual-stepper-trapezoid](https://github.com/kaka12331/dual-stepper-trapezoid) | 双路步进电机梯形/三角加减速 |
+| [brushless-motor](https://github.com/kaka12331/brushless-motor) | 串口协议无刷电机双机平滑往返 |
+| [lingke-6axis-gyro](https://github.com/kaka12331/lingke-6axis-gyro) | 6 轴 IMU 串口解析 + OLED |
+| [jy901s](https://github.com/kaka12331/jy901s) | 维特 JY901S 姿态角显示 |
+| [mpu6050](https://github.com/kaka12331/mpu6050) | MPU6050 + DMP 姿态角（防卡死） |
+| [oled-frame-animation](https://github.com/kaka12331/oled-frame-animation) | OLED 多帧动画（月新喵） |
