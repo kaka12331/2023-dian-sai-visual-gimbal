@@ -1,0 +1,31 @@
+# Keil build outputs
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.sct
+*.dep
+*.map
+*.lst
+*.build_log.htm
+
+# Keil user-specific UI state
+*.uvguix.*
+*.uvoptx.bak
+
+# Debugger / J-Link
+JLinkLog.txt
+JLinkSettings.ini
+*.dbgconf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
